@@ -1,0 +1,53 @@
+.signupContainer {
+ 
+/* justify-content: center;
+align-items: center;
+height: auto;
+border :2px solid black;
+width: 40%;
+height: 70% vh; */
+
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;   /* horizontal center */
+  align-items: center;       /* vertical center */
+  background-image: url("your-image-path.jpg");
+  background-size: cover;
+  background-position: center;
+  
+}
+
+.signup-container {
+  background: white;
+  padding: 30px;
+  border: 2px solid black;
+  width: 400px;
+}
+
+.group{
+    padding: 2px;
+}
+.signupCard{
+/* justify-content: center;
+align-items: center; */
+  background: rgba(16, 17, 16, 0.2);
+  padding: 30px;
+  border: 3px solid black;
+  border-radius: 5%;
+  width: 400px;
+  
+}
+.signup{
+   background-image: url("../assets/chat-application-interface-presented-in-3d-rendering-against-a-light-blue-backdrop-powerpoint-background_28a18cc801__960_540.avif");
+   height: 100vh;
+}
+.formgroup{
+    display: flex;
+    justify-content:left;
+}
+.buttonContainer{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
