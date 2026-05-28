@@ -133,3 +133,7 @@ group_id
 sender_id
 message
 created_at
+
+📸 Screenshots
+<img width="1920" height="1080" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/67c652c1-077b-430e-9981-647da6cc8f74" />
+
