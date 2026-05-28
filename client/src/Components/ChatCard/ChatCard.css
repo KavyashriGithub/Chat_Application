@@ -1,0 +1,21 @@
+.chat-card{
+border: 1px solid #808080;
+    cursor: pointer;
+    padding-left:10px ;
+    border-radius: 5px;
+    margin-bottom: 4px;
+}
+.chat-card:hover{
+  background: pink;
+}
+.online {
+  color: green;
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+.offline {
+  color: gray;
+  font-size: 12px;
+  margin-left: 10px;
+}

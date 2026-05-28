@@ -1,0 +1,10 @@
+.group-card{
+border: 1px solid #808080;
+    cursor: pointer;
+    padding-left:10px ;
+    border-radius: 5px;
+    margin-bottom: 4px;
+}
+.group-card:hover{
+    background: pink;
+}

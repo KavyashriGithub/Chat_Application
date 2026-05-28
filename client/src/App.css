@@ -1,0 +1,11 @@
+.background{
+  background-image: url("./assets/chat.jpg") ;
+}
+
+.welcome-message{
+  text-align: center;
+  margin-top: 50px;
+  color:blueviolet;
+  font-size: 24px;
+  
+}

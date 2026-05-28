@@ -1,0 +1,28 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.flex-item1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 20px;
+}
+.flex-item2{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 20px;
+}
+.flex-item3{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 20px;
+}

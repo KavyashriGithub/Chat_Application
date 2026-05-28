@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.loginCard {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+              url("https://images.unsplash.com/photo-1519389950473-47ba0277781c");
+  background-size: cover;
+  background-position: center;
+}
+
+.loginContainer {
+  background: white;
+  padding: 40px;
+  width: 350px;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+.loginContainer h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.formgroup {
+  margin-bottom: 15px;
+}
+
+.formgroup label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.formgroup input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.loginContainer button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4a90e2;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.loginContainer button:hover {
+  background-color: #357abd;
+}
+
+.loginContainer p {
+  text-align: center;
+  margin-top: 15px;
+}
